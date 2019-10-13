@@ -1,1 +1,6 @@
-Shruti Seth
+##Welcome to the world of coding!!
+#Prefferd languages:
+ *Java
+ *C++
+ *Python
+
