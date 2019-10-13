@@ -1,1 +1,1 @@
-# seth679.github.io
+Shruti Seth
